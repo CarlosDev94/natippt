@@ -24,7 +24,7 @@ img{
         flex-direction: column;  
         gap: 20px;      
         align-items: center;
-        background-image: url("imagen1.png");
+        background-image: url("/imagen1.png");
               
     }
     .mobile img{
